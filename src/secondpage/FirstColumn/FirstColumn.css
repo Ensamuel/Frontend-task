@@ -1,0 +1,60 @@
+.priority-access-2 {
+  font-family: Satoshi;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 83px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.second-page-text {
+  font-family: Satoshi;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.priority-access-2 {
+  line-height: 4rem;
+}
+
+
+.star5 {
+  float: right;
+  clear: both;
+}
+
+.star3 {
+  position: absolute;
+  width: 32px;
+  height: 40px;
+  left: 415px;
+  top: 1230px;
+}
+
+.Ellipse39 {
+  height: 102px;
+  width: 102px;
+  left: 138px;
+  top: 101px;
+  border-radius: 0px;
+  position: absolute;
+  width: 102px;
+  height: 102px;
+  left: 138px;
+  top: 1050px;
+}
+
+.Highlight1 {
+  height: 46px;
+  width: 36.5px;
+  left: 586.25px;
+  border-radius: 0px;
+  position: absolute;
+  width: 36.5px;
+  height: 46px;
+  left: 586.25px;
+  top: 1100px;
+}
+

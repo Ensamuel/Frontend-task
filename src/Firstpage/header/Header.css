@@ -1,0 +1,48 @@
+.logo-name{
+  display: flex;
+  align-items: center;
+}
+.logo{
+  width: 40px;
+height: 40px;
+}
+.priority-access {
+  background: transparent;
+  padding: 0.5rem 1rem;
+  background-image: linear-gradient(#121b27, #121b27),
+    linear-gradient(90deg, #5404ff, #bd3bd2);
+  background-clip: padding-box, border-box;
+  background-origin: border-box;
+  border: 5px solid transparent;
+  border-radius: 1.75rem;
+  color: white;
+
+
+}
+
+.priority-access1{
+  font-family: Satoshi;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.logo-name-l{
+  font-family: 'DMSans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 62px;
+color: #FFFFFF;
+}
+
+.logo-name-yal{
+  font-family: 'DMSans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 62px;
+color: #FFFFFF;
+}
+

@@ -1,0 +1,235 @@
+.customers-text {
+  font-family: Satoshi;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 83px;
+  letter-spacing: 0em;
+  text-align: center;
+  z-index: 1;
+}
+
+.loyalbaze-businesses {
+  font-family: Satoshi;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+  z-index: 1;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+}
+
+.profile-name {
+  height: 52px;
+  width: 443px;
+  left: 0px;
+  top: 0px;
+  border-radius: 8px;
+  padding: 14px 12px 14px 12px;
+  border: 1px solid white;
+}
+
+.profile-name input {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  background: none;
+  border: none;
+}
+
+.user-circle {
+  height: 24px;
+  width: 24px;
+  left: 0px;
+  top: 14px;
+  border-radius: 0px;
+}
+.email-profile {
+  height: 52px;
+  width: 443px;
+  left: 0px;
+  top: 0px;
+  border-radius: 8px;
+  padding: 14px 12px 14px 12px;
+  border: 1px solid white;
+}
+
+.email-profile input {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  background: none;
+  border: none;
+}
+
+.email-circle {
+  height: 24px;
+  width: 24px;
+  left: 0px;
+  top: 14px;
+  border-radius: 0px;
+}
+
+.early-access {
+  height: 50px;
+  width: 443px;
+  left: 0px;
+  top: 0px;
+  border-radius: 100px;
+  padding: 14px 12px 14px 12px;
+  background: linear-gradient(
+    112.92deg,
+    #5404ff 18.35%,
+    rgba(189, 59, 210, 0.94) 71.49%
+  );
+  font-family: Satoshi;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+
+.users {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.g {
+  height: 32px;
+  width: 32px;
+  border-radius: 50px;
+  background: #175ce1;
+  text-align: center;
+  z-index: 3;
+}
+
+.gg {
+  font-size: 16px;
+
+  line-height: 21px;
+  letter-spacing: 0em;
+}
+
+.o {
+  height: 32px;
+  width: 32px;
+  border-radius: 50px;
+  background: #a75fd2;
+  text-align: center;
+  margin-left: -7px;
+  z-index: 2;
+}
+
+.oo {
+  font-size: 16px;
+
+  line-height: 21px;
+  letter-spacing: 0em;
+}
+
+.u {
+  height: 32px;
+  width: 32px;
+  border-radius: 50px;
+  background: #175ce1;
+  text-align: center;
+  z-index: 1;
+  margin-left: -7px;
+}
+
+.uu {
+  font-size: 16px;
+
+  line-height: 21px;
+  letter-spacing: 0em;
+}
+
+.m {
+  height: 32px;
+  width: 32px;
+  border-radius: 50px;
+  background: #a75fd2;
+  text-align: center;
+  z-index: 0;
+  margin-left: -7px;
+  margin-right: 7px;
+}
+
+.mm {
+  font-size: 16px;
+
+  line-height: 21px;
+  letter-spacing: 0em;
+}
+
+.fifty77 {
+  font-family: Satoshi;
+  font-size: 16px;
+
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.Ellipse37 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 200px;
+  bottom: 0%;
+  height: 200px;
+  width: 200px;
+  border-radius: 0px;
+}
+
+.Star2 {
+  position: absolute;
+  height: 40px;
+  width: 32px;
+  left: 462px;
+  top: 180px;
+  border-radius: 1px;
+}
+
+.Ellipse40 {
+  position: absolute;
+  height: 102px;
+  width: 102px;
+  left: 950px;
+  top: 126px;
+  border-radius: 0px;
+}
+.vector1 {
+  position: absolute;
+  left: 950px;
+  top: 500px;
+  bottom: -14.75%;
+}
+
+.Ellipse392 {
+  position: absolute;
+  right: -20px;
+  z-index: 0;
+  width: 175px;
+  top: 350px;
+  height: 350px;
+}
+
+.Star1{
+  position: absolute;
+width: 48px;
+height: 64px;
+right: 0px;
+top: 45rem;
+}

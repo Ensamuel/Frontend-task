@@ -1,0 +1,88 @@
+.form-2 {
+  height: 837px;
+  width: 633px;
+  left: 707px;
+  top: 178px;
+  border-radius: 20px;
+  background: #1d2939;
+}
+
+.book-consultation {
+  position: relative;
+  width: 310px;
+  height: 31px;
+  left: 70px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 130%;
+  color: #ffffff;
+}
+
+.full-name,
+.email,
+.mobile-number,
+.company-name,
+.select-country {
+  height: 53px;
+  width: 494px;
+  left: 70px;
+  top: 127px;
+  border-radius: 8px;
+  padding: 16px;
+  background: none;
+  border: 1px solid #dddddd80;
+  color: #dddddd80;
+}
+
+.drop-message {
+  height: 128px;
+  width: 494px;
+  left: 70px;
+  top: 555px;
+  border-radius: 8px;
+  padding: 16px;
+  background: none;
+  border: 1px solid #dddddd80;
+}
+
+.send-request {
+  height: 50px;
+  width: 494px;
+  border-radius: 100px;
+  padding: 14px 12px 14px 12px;
+  background: linear-gradient(
+    112.92deg,
+    #5404ff 18.35%,
+    rgba(189, 59, 210, 0.94) 71.49%
+  );
+  border: none;
+  justify-self: center;
+}
+
+.send-request-1 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+.form-3 {
+  text-align: center;
+}
+
+.Star4 {
+  height: 64px;
+  width: 48px;
+  left: 1269px;
+  top: 1031px;
+  border-radius: 1px;
+  position: absolute;
+  width: 48px;
+  height: 64px;
+  left: 1269px;
+  top: 1950px;
+}

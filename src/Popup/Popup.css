@@ -1,0 +1,35 @@
+.popup {
+  position: absolute;
+  top: 0;
+  background: #1E1E1E;
+  justify-content: center;
+  align-items: center;
+}
+
+.early-access {
+  height: 50px;
+  width: 443px;
+  left: 0px;
+  top: 0px;
+  border-radius: 100px;
+  padding: 14px 12px 14px 12px;
+  background: linear-gradient(
+    112.92deg,
+    #5404ff 18.35%,
+    rgba(189, 59, 210, 0.94) 71.49%
+  );
+  font-family: Satoshi;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+
+.group-243 {
+  height: 88px;
+  width: 88px;
+  left: 179px;
+  top: 102px;
+  border-radius: 0px;
+}
